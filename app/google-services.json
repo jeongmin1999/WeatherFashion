@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591488580944",
+    "project_id": "weathernfashion",
+    "storage_bucket": "weathernfashion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591488580944:android:4abe5311c6767bafbcc055",
+        "android_client_info": {
+          "package_name": "kr.ac.yeonsung.giga.weathernfashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591488580944-uc2klcnano9ak3c5qai1ikvpnfjc9a76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Q1c4RwA7Bg0MNSGbsx5XBqFLL6W-8vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591488580944-uc2klcnano9ak3c5qai1ikvpnfjc9a76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

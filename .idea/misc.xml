@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sad96/AndroidStudioProjects/WeatherFashion/app/src/main/res/drawable/progress_image.xml" value="0.1625" />
+        <entry key="..\:/Users/sad96/AndroidStudioProjects/WeatherFashion/app/src/main/res/drawable/radius_text_empty.xml" value="0.3505" />
+        <entry key="..\:/Users/sad96/AndroidStudioProjects/WeatherFashion/app/src/main/res/layout/activity_join.xml" value="0.28177083333333336" />
+        <entry key="..\:/Users/sad96/AndroidStudioProjects/WeatherFashion/app/src/main/res/layout/dialog_modify.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/sad96/AndroidStudioProjects/WeatherFashion/app/src/main/res/layout/dialog_progress.xml" value="0.3953125" />
+        <entry key="..\:/Users/sad96/AndroidStudioProjects/WeatherFashion/app/src/main/res/layout/fragment_myinfo.xml" value="0.33" />
+        <entry key="..\:/Users/sad96/AndroidStudioProjects/WeatherFashion/app/src/main/res/layout/fragment_post.xml" value="0.33" />
+        <entry key="..\:/Users/sad96/AndroidStudioProjects/WeathernFashion/app/src/main/res/layout/activity_main.xml" value="0.14868287740628167" />
+        <entry key="..\:/Users/sad96/AndroidStudioProjects/WeathernFashion/app/src/main/res/layout/activity_start.xml" value="0.14868287740628167" />
+        <entry key="..\:/Users/sad96/AndroidStudioProjects/WeathernFashion/app/src/main/res/layout/fragment_home.xml" value="0.14868287740628167" />
+        <entry key="..\:/WeatherFashion/app/src/main/res/drawable/bg_gradient.xml" value="0.2815" />
+        <entry key="..\:/WeatherFashion/app/src/main/res/layout/activity_join.xml" value="0.3145833333333333" />
+        <entry key="..\:/WeatherFashion/app/src/main/res/layout/activity_main.xml" value="0.36354166666666665" />
+        <entry key="..\:/WeatherFashion/app/src/main/res/layout/activity_post.xml" value="0.22" />
+        <entry key="..\:/WeatherFashion/app/src/main/res/layout/board_list_item.xml" value="0.25833333333333336" />
+        <entry key="..\:/WeatherFashion/app/src/main/res/layout/fragment_myinfo.xml" value="0.25833333333333336" />
+        <entry key="..\:/WeatherFashion/app/src/main/res/layout/fragment_post.xml" value="0.35572916666666665" />
+        <entry key="..\:/WeatherFashion/app/src/main/res/layout/fragment_post_view.xml" value="0.35572916666666665" />
+        <entry key="..\:/WeatherFashion/app/src/main/res/menu/bottom_navi_menu.xml" value="0.36354166666666665" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/bg_gradient.xml" value="0.1365" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/bg_gradient2.xml" value="0.1365" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/bg_gradient_morning.xml" value="0.183" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/bg_gradient_night.xml" value="0.183" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/bg_night.xml" value="0.183" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/board.xml" value="0.183" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/cloud.xml" value="0.181" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/humidity_icon.xml" value="0.181" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/humidity_icon2.xml" value="0.181" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/radius_back.xml" value="0.189" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/radius_btn.xml" value="0.201" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/radius_btn_empty.xml" value="0.201" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/rank_1.xml" value="0.1415" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/rank_2.xml" value="0.1415" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/rank_3.xml" value="0.1415" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/setting.xml" value="0.214" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/drawable/wind_speed2.xml" value="0.181" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/layout/activity_join.xml" value="0.13028169014084506" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/layout/activity_login.xml" value="0.24342105263157895" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/layout/activity_post.xml" value="0.24682971014492755" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/layout/activity_start.xml" value="0.31927083333333334" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/layout/board_list_item.xml" value="0.25354609929078015" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/layout/board_rank_item.xml" value="0.37318840579710144" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/layout/board_rank_recycler_view_item.xml" value="0.24682971014492755" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/layout/daily_weather_recycler_view_item.xml" value="0.25354609929078015" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/layout/fragment_home.xml" value="0.32472826086956524" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/layout/fragment_setting.xml" value="0.32472826086956524" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/layout/recycler_view_item.xml" value="0.39114583333333336" />
+        <entry key="..\:/WeathernFashion/app/src/main/res/menu/bottom_navi_menu.xml" value="0.1" />
+        <entry key="..\:/ksj/WeathernFashion/app/src/main/res/font/harlowsoliditalic.xml" value="0.1" />
+        <entry key="..\:/ksj/WeathernFashion/app/src/main/res/layout/activity_join.xml" value="0.25885416666666666" />
+        <entry key="..\:/ksj/WeathernFashion/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/ksj/WeathernFashion/app/src/main/res/layout/activity_main.xml" value="0.21875" />
+        <entry key="..\:/ksj/WeathernFashion/app/src/main/res/layout/activity_start.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.5" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

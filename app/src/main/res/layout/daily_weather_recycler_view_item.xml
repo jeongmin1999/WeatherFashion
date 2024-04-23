@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textSize="15dp"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="시간"
+                android:layout_marginBottom="2dp"
+                android:textColor="#d9d9de"/>
+            <ImageView
+                android:id="@+id/icon"
+                android:layout_width="40dp"
+                android:scaleType="fitXY"
+                android:layout_height="40dp"/>
+            <TextView
+                android:id="@+id/temp"
+                android:layout_marginTop="2dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#d9d9de"
+                android:textSize="13dp"
+                android:text="온도"/>
+    </LinearLayout>
+</LinearLayout>

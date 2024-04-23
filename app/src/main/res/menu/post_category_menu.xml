@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ca1"
+        android:title="카테고리1"/>
+
+    <item
+        android:id="@+id/ca2"
+        android:title="카테고리2"/>
+
+    <item
+        android:id="@+id/ca3"
+        android:title="카테고리3"/>
+
+    <item
+        android:id="@+id/ca4"
+        android:title="카테고리4"/>
+
+    <item
+        android:id="@+id/ca5"
+        android:title="카테고리5"/>
+</menu>
