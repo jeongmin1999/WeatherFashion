@@ -1,5 +1,7 @@
 
 # WeatherFashion
+사용자의 날씨와 사진을 찍었을 당시의 날씨를 대조하여 패션정보를 확인
+
 <p align="center">
   <img src="https://github.com/jeongmin1999/WeatherFashion/assets/102007881/94521406-9661-448c-a5c2-b7ce288e495c"  width="200" height="400"/>
 <img src="https://github.com/jeongmin1999/WeatherFashion/assets/102007881/6191a276-dae2-4ef6-ad62-f202f2580b63"  width="200" height="400"/>
